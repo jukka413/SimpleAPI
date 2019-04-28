@@ -21,6 +21,7 @@ https://www.rabbitmq.com/management.html
 
 Для тестирования PUT-запросов использовался postman:
 https://www.getpostman-beta.com/
+Если postman не будет пропускать запросы - нужно в его настройках убрать проверку SSL-сертов
 
 Документация по MassTransit:
 http://masstransit-project.com/
