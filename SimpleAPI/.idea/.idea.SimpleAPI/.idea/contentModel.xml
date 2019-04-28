@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Никитос\.Rider2018.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Никитос\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Никитос\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_SimpleAPI.-85035107.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Никитос\RiderProjects\SimpleAPI" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SimpleAPI" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BusinessLogic" t="Include">
+          <e p="GetUserInfoRequestHandler.cs" t="Include" />
+          <e p="PutUserInfoRequestHandler.cs" t="Include" />
+        </e>
+        <e p="Commands" t="Include">
+          <e p="IPutUser.cs" t="Include" />
+          <e p="PutUser.cs" t="Include" />
+        </e>
+        <e p="Consumers" t="Include">
+          <e p="PutUserConsumer.cs" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="UserController.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="User.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="SimpleAPI.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="BusService.cs" t="Include" />
+          <e p="UserInfoService.cs" t="Include" />
+          <e p="UserPutService.cs" t="Include" />
+        </e>
+        <e p="Services.Interfaces" t="Include">
+          <e p="IUserInfoService.cs" t="Include" />
+          <e p="IUserPutService.cs" t="Include" />
+        </e>
+        <e p="SimpleAPI.csproj" t="IncludeRecursive" />
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="SimpleAPI.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
